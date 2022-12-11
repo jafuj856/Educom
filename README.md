@@ -1,7 +1,7 @@
 # Splash Screen
 **Smooth Splash Screen App with Animated Contents.**
 
-<img src="app/src/main/res/mipmap-xhdpi/ic_launcher.webp" align="left"
+<img src="app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" align="left"
 width="100"
     hspace="10" vspace="10">
 
